@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Kings Rewards"];
+const statusMessages = ["play.awitacraft.com","Tienda.awitacraft.com","AwitaCraft"];
 
 
 let currentIndex = 0;
