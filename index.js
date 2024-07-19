@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["play.awitacraft.com","Tienda.awitacraft.com","AwitaCraft"];
+const statusMessages = ["Viendo Aurest Studio","Viendo Tickets","Bot Oficial"];
 
 
 let currentIndex = 0;
