@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Viendo Aurest Studio","Viendo Tickets","Bot Oficial"];
+const statusMessages = ["Incatatem (ES)","Bot Oficial"];
 
 
 let currentIndex = 0;
